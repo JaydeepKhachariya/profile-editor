@@ -42,7 +42,7 @@ app/
 
 1. **Clone and navigate to the project:**
    ```bash
-   cd C:\Users\HP\Documents\GitHub\mini-profile-editor
+   cd mini-profile-editor
    ```
 
 2. **Install dependencies:**
